@@ -1,0 +1,22 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#header {
+    width: 100%;
+    height: 10%;
+    background-color: powderblue;
+    border-bottom: 10px;
+    color: powderblue;
+    
+}
+
+#mainButton {
+    width: 50%;
+    aspect-ratio: 1/1;
+    background-image: url("../img/ice.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
